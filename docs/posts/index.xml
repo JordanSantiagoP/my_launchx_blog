@@ -8,6 +8,16 @@
     <language>en-us</language>
     <lastBuildDate>Sun, 24 Feb 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://jordansantiagop.github.io/my_launchx_blog/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Camino en Launch X</title>
+      <link>https://jordansantiagop.github.io/my_launchx_blog/posts/post_1/</link>
+      <pubDate>Sat, 23 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>https://jordansantiagop.github.io/my_launchx_blog/posts/post_1/</guid>
+      <description>Hola usuari@ te contaré un poco de mi travesía en Launch X:
+-Encontre este proyecto gracias aun amigo llamado Alvarado, me registre y solo espere el comienzo. -Conocí a mi primer mission comander, Fernanda, muy linda y atenta. -Era el Onboarding donde nos enseño a usar GitHub y un poco de Phyton. -Hicimos practicas llamadas Katas. -Al termiar esta primera etapa, conocí a mi siguiente misión y mission comander -Ricardo era el encargado en mostrarnos el FrontEnd donde veriamos HTML, CSS y Javascript -Ahora me encuentro en mi 3era misión con Carlo como mision comander y dispuesto a aprender más.</description>
+    </item>
+    
+    <item>
       <title>Los valores de un desarrollador@ de software</title>
       <link>https://jordansantiagop.github.io/my_launchx_blog/posts/intro/</link>
       <pubDate>Mon, 21 Feb 2022 18:16:21 -0600</pubDate>
